@@ -1,0 +1,6 @@
+id=gapps_installer
+name=Gapps Installer
+version=v0.1
+versionCode=24000
+author=Luciogi
+description=Install GAPPS as magisk module
