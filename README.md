@@ -10,7 +10,7 @@ cd gapps-installer
 chmod +x build.sh
 ./build.sh
 ```
-## Only Tested with 
+## Only Tested with:
 - Android 11
 - Arm64 version
 ---
